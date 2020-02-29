@@ -1,5 +1,5 @@
-import express, { Application, Request, Response } from "express";
 import bodyParser from "body-parser";
+import express, { Application, Request, Response } from "express";
 
 const app: Application = express();
 
